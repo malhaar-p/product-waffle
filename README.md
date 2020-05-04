@@ -1,19 +1,18 @@
 # product-waffle
 An e-commerce application for an online products store.
 
-BookCart
 A Demo e-commerce application for products store created with ASP.NET Core 3+ and frontend with Angular 8, React, Blazorand Angular 8, using SQL Server as database.
 
 
 
 
-#Concepts Covered
+# Concepts Covered
 
-Clean Architecture with CQRS
+### Clean Architecture with CQRS
 
-ASP.NET Core 3+
+### ASP.NET Core 3+
 
-#Angular 8
+### Angular 8
 
 Angular Material
 Routing & Navigation
@@ -25,15 +24,13 @@ Form validation (inbuilt and custom)
 Pipes
 Dynamic themes
 
+### React
 
-React
+### Blazor
 
-Blazor
+### Steps to run the app
 
-Steps to run the app
-
-Prerequisites
-
+### Prerequisites
 Visual Studio 2019 (Updated)
 Node.Js V12.0 or above
 SQL Server Express (Latest)
